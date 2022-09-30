@@ -12,7 +12,7 @@ public class GitTest {
         System.out.println("pull test!");
         System.out.println("帅啊Test!");
         System.out.println("帅啊!");
-        System.out.println("测试!");
+        System.out.println("测试2!");
 
     }
 }
